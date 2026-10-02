@@ -1,0 +1,6 @@
+{
+  "name": "Smart Attendance System",
+  "description": "Smarter Attendance. Better Insights. Effortless Campus Management. Complete EdTech SaaS attendance platform for universities.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
